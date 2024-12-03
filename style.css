@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+ 
+input{
+    width: 400px;
+}
+
+div{
+    width: 400px;
+    background-color: gold;
+    color: brown;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: none;
+}
+
+button{
+    margin-top: 10px;
+}
